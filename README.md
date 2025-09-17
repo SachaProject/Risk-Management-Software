@@ -15,7 +15,7 @@ A professional PyQt5 application for analyzing trading strategies using advanced
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SachaProject/risk-management-software.git
+git clone https://github.com/SachaProject/Risk-Management-Software.git
 ```
 
 2. Install dependencies:
@@ -95,3 +95,4 @@ Sacha Pédenon
 
 
 Built with ❤️ for quantitative traders
+
