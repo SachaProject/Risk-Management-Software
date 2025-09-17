@@ -1,0 +1,26 @@
+{
+  "initial_capital": 100000,
+  "default_allocation_method": "equal_weight",
+  "risk_free_rate": 0.02,
+  "target_volatility": 0.15,
+  "rebalance_frequency": "monthly",
+  "data_directory": "/mnt/c/Users/sacha/Desktop/Trading/Omega ratio",
+  "auto_save": true,
+  "theme": "dark",
+  "backtest_commission": 0.001,
+  "ui_settings": {
+    "window_width": 1600,
+    "window_height": 900,
+    "default_tab": "data"
+  },
+  "analysis_settings": {
+    "default_confidence_level": 0.95,
+    "rolling_window": 252,
+    "monte_carlo_simulations": 1000
+  },
+  "optimization_settings": {
+    "max_iterations": 1000,
+    "tolerance": 1e-06,
+    "max_weight": 0.5
+  }
+}
