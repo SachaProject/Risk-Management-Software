@@ -15,8 +15,7 @@ A professional PyQt5 application for analyzing trading strategies using advanced
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SachaProject/omega-ratio.git
-cd Risk Management Software
+git clone https://github.com/SachaProject/risk-management-software.git
 ```
 
 2. Install dependencies:
@@ -90,8 +89,9 @@ MIT License
 
 ## 👤 Author
 
-Your Name
+Sacha Pédenon
 
 ---
+
 
 Built with ❤️ for quantitative traders
