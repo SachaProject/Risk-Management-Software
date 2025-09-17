@@ -4,7 +4,7 @@
   "risk_free_rate": 0.02,
   "target_volatility": 0.15,
   "rebalance_frequency": "monthly",
-  "data_directory": "/mnt/c/Users/sacha/Desktop/Trading/Omega ratio",
+  "data_directory": "/mnt/c/Users/sacha/Desktop/Trading/Risk Management Software",
   "auto_save": true,
   "theme": "dark",
   "backtest_commission": 0.001,
